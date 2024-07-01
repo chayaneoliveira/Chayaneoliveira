@@ -3,7 +3,9 @@
 Meu nome é Chayane Oliveira 
 
 -Estou estudando na [Alura](https://www.alura.com.br) 
+
 -Estou me desenvolvendo na linguagem JavaScript
+
 -Utilizo esse espaço paranminha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
